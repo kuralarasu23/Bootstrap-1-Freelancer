@@ -19,6 +19,7 @@
   background-color: #1abc9c;
   margin-bottom: 70px;
   margin-top: 40px;
+  cursor: not-allowed;
 }
 
 .section4 input {
